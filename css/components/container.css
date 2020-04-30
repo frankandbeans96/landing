@@ -1,0 +1,27 @@
+.banner .container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  color: white;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner .container p {
+  opacity: 0.9;
+  font-size: 20px;
+  margin-bottom: 40px;
+  margin-top: 10px;
+}
+
+.banner .container h1 {
+  font-size: 45px;
+  text-shadow: 2px 2px 0.12px blue;
+  margin-bottom: 10px;
+}
+
+.container-menu {
+  width: auto;
+
+}

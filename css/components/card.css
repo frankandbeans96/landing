@@ -1,0 +1,26 @@
+.card {
+  box-shadow: 0 0 5px rgb(230,230,230);
+  height: 380px;
+  width: 292px;
+  border-radius: 5px;
+  margin: 30px auto;
+}
+
+.card img {
+  width: 30%;
+  fill: blue;
+}
+
+.card .card-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 125px;
+}
+
+.card h3 {
+  font-size: 30px;
+  font-style: italic;
+  color: blue;
+  opacity: 0.9;
+}
